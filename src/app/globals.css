@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.aa-DetachedSearchButton {
+  width: 1000 !important;
+}
